@@ -157,6 +157,7 @@ body {
           transform: rotate(359deg);
         }
     }
+    
     .loader {
       height: 70px;
       display: flex;

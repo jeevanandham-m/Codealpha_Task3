@@ -107,6 +107,7 @@ function repeatTrack(){
     loadTrack(current_index);
     playTrack();
 }
+
 function playpauseTrack(){
     isPlaying ? pauseTrack() : playTrack();
 }
